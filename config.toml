@@ -1,0 +1,13 @@
+#Hugo configuration
+title = "Test Ping"
+baseURL = "https:\/\/ping.test.com"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+
+[params]
+loginId = "1758823"
+subfolder = ""
+firstpartycookies = true
+cookiedomain = "test.com"
